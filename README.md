@@ -1,6 +1,6 @@
 # SEMC Quantum Repos
 ------------------------------------
-Quantum uses Lua for buildfiles, this is where the buildfiles are hosted.
+Quantum uses Lua for buildfiles, this is where the SEMC specific buildfiles are hosted.
 Learn about the Quantum [here](https://github.com/quantum-package-manager/quantum-lua)
 
 ------------------------------------
