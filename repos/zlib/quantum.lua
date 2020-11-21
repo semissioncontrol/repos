@@ -12,5 +12,5 @@ function build()
 end
 
 function install()
-	os.execute("make DESTDIR=" .. install_dir .. "bindir/zlib/1.2.11/ install")
+	os.execute("make DESTDIR=" .. install_dir .. "/bindir/zlib/1.2.11/ install")
 end
